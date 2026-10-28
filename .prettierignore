@@ -1,0 +1,11 @@
+node_modules/
+apps/
+playwright-report/
+test-results/
+.auth/
+.playwright-cli/
+package-lock.json
+*.html
+*.pdf
+docs/
+README.md
